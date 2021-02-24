@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(180, 218, 94);
+}
+.text_main_text{
+    margin-left: 100px;
+    font-size: 20px;
+    text-align: left;
+    color: white;
+}
+.main{
+    margin-right: 700px;
+    color: white;
+
+}
+.main1{
+    margin-right: 700px;
+    color: white;
+    background-image: url(Imagens/Background.jpg);
+}
+.main_text_title{
+    margin-left: 50px;
+    text-align: center;
+}
+.oi{
+    margin-left: 200px;
+}
+.a{
+    color: rgb(147, 189, 33);
+}
